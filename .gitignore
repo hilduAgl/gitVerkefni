@@ -1,0 +1,25 @@
+# macOS system files
+.DS_Store
+
+# VS Code configuration
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Node.js modules
+node_modules/
+
